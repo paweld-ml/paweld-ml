@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Pawel Dobrowolski 👋
 
-<!--
-**paweld-ml/paweld-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior AI Engineer - UK Team Lead @ Shell | Poznań, Poland**
 
-Here are some ideas to get you started:
+Experienced Information Technology Analyst with a demonstrated history of working in the oil & energy industry. Strong business development professional skilled in IT Strategy, Software Documentation, Business Intelligence, Business Process Improvement, and Software Development Life Cycle (SDLC). Passionate about leveraging AI to drive business value and process optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Expertise
+- **AI & Analytics:** Machine Learning, Business Intelligence, Data-driven Decision Making.
+- **Project Lifecycle:** SDLC (Software Development Life Cycle), Software Documentation.
+- **Strategy & Operations:** IT Strategy, Business Process Improvement, Operational Excellence.
+- **Domain:** Oil & Energy Industry Specialist.
+
+### 🛠 Tech Stack
+- **Languages:** Python, R, SQL.
+- **Frameworks:** Alteryx, Tableau, Power BI, Advanced Analytics Tools.
+- **Process:** Agile, Waterfall, SDLC Governance.
+
+### 🎓 Education
+- **Panthéon-Assas Université:** Advanced Studies in Information Technology.
+
+### 📬 Get in Touch
+- **LinkedIn:** [linkedin.com/in/pawel-d](https://www.linkedin.com/in/pawel-d/)
+
+---
+
+*“Driving innovation and excellence in the energy sector through advanced AI engineering and strategic IT solutions.”*
