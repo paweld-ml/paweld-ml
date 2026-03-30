@@ -21,6 +21,7 @@ Experienced Information Technology Analyst with a demonstrated history of workin
 - **Panthéon-Assas Université:** Advanced Studies in Information Technology.
 
 ### 📬 Get in Touch
+- **Email:** [pawel.dobrowolski@shell.com](mailto:pawel.dobrowolski@shell.com)
 - **LinkedIn:** [linkedin.com/in/pawel-d](https://www.linkedin.com/in/pawel-d/)
 
 ---
